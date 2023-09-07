@@ -1,0 +1,8 @@
+JSON Path,Expected Value,Actual Value,Match
+/Actors[0].name,Tom Cruise,,false
+/Actors[0].age,500,,false
+/Actors[0].Born At,"fyracuse, NY",,false
+/Actors[0].Birthdate,"July 30, 1962",,false
+
+
+
